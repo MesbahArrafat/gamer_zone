@@ -1,0 +1,44 @@
+/* All Common CSS Start  */
+body {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  display: inline-block;
+}
+ul,
+ol {
+  list-style-type: none;
+  padding-left: 0px !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+img {
+  vertical-align: middle;
+}
+/* All Common CSS End  */
+
+/*  extra CSS part Start  */
+
+/* extra CSS part End  */
+
+/*  CSS part Start  */
+/* CSS part End  */
